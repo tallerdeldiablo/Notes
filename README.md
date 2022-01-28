@@ -21,8 +21,9 @@ npm i
 node server
 
 ## Usage
-![image](https://user-images.githubusercontent.com/57916204/151489145-2ae63faa-37d0-4f91-ae5b-fe8cc426ab55.png)
+![image](https://github.com/tallerdeldiablo/Notes/blob/main/public/images/page-0.png?raw=true)
 ![image](https://github.com/tallerdeldiablo/Notes/blob/main/public/images/page-1.png?raw=true)
+![image](https://github.com/tallerdeldiablo/Notes/blob/main/public/images/page-2.png?raw=true)
 
 ## Live URL
 
